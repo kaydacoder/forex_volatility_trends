@@ -4,4 +4,4 @@ Link to EUR USD (Daily Price) Historical Dataset: [EUR USD Historical Data | Exc
 
 Link to Economic Calendar Dataset: [Economic Calendar - FXStreet](https://www.fxstreet.com/economic-calendar)
 
-_P.S. Feel free to try this project yourself using my '1_data_collection' folder._
+_P.S. Feel free to try this project yourself.
