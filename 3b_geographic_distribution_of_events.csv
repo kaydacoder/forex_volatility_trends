@@ -1,0 +1,3 @@
+location,COUNT(location),"Distribution of Events (%)"
+US,1329,0.6030
+"EU",875,0.3970

@@ -1,0 +1,90 @@
+event_name,location,"% changes","volatility_range %"
+"ISM Manufacturing PMI",US,0.0700,0.4900
+"Core Harmonized Index of Consumer Prices (YoY)","EU",0.0100,0.4800
+"Harmonized Index of Consumer Prices (YoY)","EU",0.0100,0.4800
+"Average Hourly Earnings (YoY)",US,0.0100,0.4300
+"Nonfarm Payrolls",US,0.0100,0.5400
+"Fed's Chair Powell speech",US,0.0000,0.4600
+"President Trump speech",US,-0.1800,0.4800
+"FOMC Minutes",US,-0.0300,0.4100
+"ECB Monetary Policy Meeting Accounts","EU",0.0000,0.3000
+"Consumer Price Index ex Food & Energy (YoY)",US,0.0800,0.6000
+"ECB's President Draghi speech","EU",-0.0200,0.2500
+"ECB Main Refinancing Operations Rate","EU",-0.0400,0.6000
+"ECB Rate On Deposit Facility","EU",-0.0400,0.6000
+"ECB Press Conference","EU",-0.0400,0.6000
+"Fed Interest Rate Decision",US,0.2000,0.5300
+"Fed Monetary Policy Statement",US,0.2000,0.5500
+"FOMC Press Conference",US,0.2000,0.5300
+"Gross Domestic Product s.a. (QoQ)","EU",0.0200,0.5300
+"Gross Domestic Product s.a. (YoY)","EU",0.0200,0.5300
+"Durable Goods Orders ex Defense",US,-0.1600,0.0000
+"ISM Services PMI",US,-0.0200,0.4900
+"Consumer Price Index ex Food & Energy (MoM)",US,0.0900,0.6000
+"Retail Sales Control Group",US,-0.0800,0.5000
+"Retail Sales ex Autos (MoM)",US,0.3000,0.0000
+"Michigan Consumer Sentiment Index",US,-0.1000,0.4200
+"HCOB Composite PMI","EU",-0.0500,0.4300
+"Nondefense Capital Goods Orders ex Aircraft",US,0.0400,0.4500
+"Fed's Chair Powell testifies",US,-0.0300,0.4200
+"Gross Domestic Product Annualized",US,0.0000,0.4900
+"FOMC Economic Projections",US,0.1800,0.5600
+"Jean Claude Juncker speech","EU",0.2900,0.0000
+"ECB Bank Lending Survey","EU",0.0200,0.4100
+"Jackson Hole Symposium",US,0.0800,0.3400
+"G7 Meeting","EU",0.1800,0.4000
+"ECB's President Lagarde speech","EU",0.0100,0.4800
+"Interest Rate Projections - 1st year",US,0.1800,0.5900
+"Interest Rate Projections - 2nd year",US,0.1800,0.5900
+"Interest Rate Projections - 3rd year",US,0.0100,0.5900
+"Interest Rate Projections - Current",US,0.1800,0.5900
+"Interest Rate Projections - Longer",US,0.1800,0.5900
+"US Democratic Primaries Super Tuesday",US,0.3500,0.0000
+"G7 Call on Coronavirus",US,-0.0200,0.9600
+"Coronavirus Task Force Press Briefing",US,-1.4800,0.0000
+"Treasury Sec Mnuchin speech",US,-0.0300,0.1000
+"EU Finance Ministers Meeting","EU",0.6800,0.0000
+"Initial Jobless Claims",US,-0.0700,0.8400
+"Senate votes on Coronavirus Bill",US,0.2500,0.0000
+"S&P Global Composite PMI",US,0.6100,0.0000
+"S&P Global Manufacturing PMI",US,-0.0800,0.4500
+"S&P Global Services PMI",US,-0.0800,0.4500
+"House votes on Coronavirus Bill",US,1.0100,0.0000
+"ADP Employment Change",US,0.0900,0.4800
+"ISM Services Employment Index",US,-0.1700,0.5200
+"OPEC Meeting",US,0.6500,0.0000
+"European Council Meeting","EU",-0.0300,0.3000
+"Unemployment Rate","EU",0.6600,0.1000
+"OPEC Press Conference",US,0.0700,0.0000
+"Bank Stress Test Info",US,-0.2400,0.1800
+"EU Leaders Special Summit","EU",0.1100,0.2900
+"Durable Goods Orders",US,-0.0100,0.4700
+"Retail Sales (YoY)","EU",0.0400,0.4900
+"Retail Sales (MoM)",US,-0.0200,0.5100
+"Presidential Debate",US,0.0800,0.2800
+"Presidential Election",US,0.6100,0.0000
+"Brexit Summit","EU",-0.1700,0.0000
+"President Biden speech",US,0.0100,0.4800
+"Treasury Sec Yellen speech",US,0.4300,0.0000
+"Presidential Inauguration",US,-0.2000,0.0000
+"10-Year Note Auction",US,0.1700,0.0600
+"ECB Special Strategy Meeting","EU",0.4500,0.0000
+"ECB Monetary Policy Statement","EU",-0.0600,0.6600
+"ECB's De Guindos speech","EU",0.1400,0.0000
+"Biden-Powell meeting",US,-0.4100,0.0000
+"Treasury Sec Yellen testifies",US,0.0500,0.0000
+"EC President von der Leyen speech","EU",0.0700,0.0000
+"Core Harmonized Index of Consumer Prices (MoM)","EU",-0.0400,0.4500
+"Harmonized Index of Consumer Prices (MoM)","EU",-0.0400,0.4500
+"Core Personal Consumption Expenditures - Price Index (MoM)",US,-0.0800,0.3700
+"Core Personal Consumption Expenditures - Price Index (YoY)",US,-0.0800,0.3700
+"Average Hourly Earnings (MoM)",US,0.0300,0.5700
+"Consumer Price Index (MoM)",US,0.1300,0.7600
+"Consumer Price Index (YoY)",US,0.1300,0.7600
+"Producer Price Index ex Food & Energy (YoY)",US,-0.0800,0.5000
+"HCOB Manufacturing PMI","EU",-0.1500,0.4100
+"HCOB Services PMI","EU",-0.1500,0.4100
+"Fed's Kashkari speech",US,-0.1500,0.0000
+"Fed's Goolsbee speech",US,-0.1500,0.0000
+"Fed's Logan speech",US,-0.1500,0.0000
+"European Parliament Election","EU",-0.8100,0.0000
